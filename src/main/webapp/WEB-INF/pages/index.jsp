@@ -92,7 +92,7 @@
     <tr>
     <td>
     <div class="row">
-      <div width="85%">
+      <div class="col-sm-4">
         <div class="panel panel-default">
           <div class="panel-heading">
             <h3 class="panel-title">Enjoy a Night on the Town</h3>
@@ -105,7 +105,7 @@
       </div>
       </td>
       <td>
-      <div width="85%">
+      <div class="col-sm-4">
         <div class="panel panel-default">
           <div class="panel-heading">
             <h3 class="panel-title">Great for Family Photos</h3>
@@ -117,10 +117,8 @@
         </div>
       </div>
       </td>
-      </tr>
-      <tr>
       <td>
-      <div width="85%">
+      <div class="col-sm-4">
         <div class="panel panel-default">
           <div class="panel-heading">
             <h3 class="panel-title">Free alterations</h3>
@@ -133,8 +131,10 @@
         </div>
       </div>
       </td>
+      </tr>
+      <tr>
       <td>
-      <div width="85%">
+      <div class="col-sm-4">
         <div class="panel panel-default">
           <div class="panel-heading">
             <h3 class="panel-title">When you just gotta strut</h3>
@@ -146,6 +146,8 @@
         </div>
       </div>
       </td>
+      <td>&nbsp;</td>
+      <td>&nbsp;</td>
       </tr>
       </table>
     </div>
