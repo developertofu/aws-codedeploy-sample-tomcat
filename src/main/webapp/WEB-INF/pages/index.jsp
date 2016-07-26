@@ -103,8 +103,6 @@
           </div>
         </div>
       </div>
-      </td>
-      <td>
       <div class="col-sm-4">
         <div class="panel panel-default">
           <div class="panel-heading">
@@ -116,8 +114,6 @@
           </div>
         </div>
       </div>
-      </td>
-      <td>
       <div class="col-sm-4">
         <div class="panel panel-default">
           <div class="panel-heading">
@@ -146,8 +142,6 @@
         </div>
       </div>
       </td>
-      <td>&nbsp;</td>
-      <td>&nbsp;</td>
       </tr>
       </table>
     </div>
