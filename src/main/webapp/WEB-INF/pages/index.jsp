@@ -88,7 +88,9 @@
     <div class="page-header">
       <h1>Our Products</h1>
     </div>
-
+    <table border="0" cellpadding="0" cellspacing="0">
+    <tr>
+    <td>
     <div class="row">
       <div class="col-sm-4">
         <div class="panel panel-default">
@@ -101,6 +103,8 @@
           </div>
         </div>
       </div>
+      </td>
+      <td>
       <div class="col-sm-4">
         <div class="panel panel-default">
           <div class="panel-heading">
@@ -112,6 +116,10 @@
           </div>
         </div>
       </div>
+      </td>
+      </tr>
+      <tr>
+      <td>
       <div class="col-sm-4">
         <div class="panel panel-default">
           <div class="panel-heading">
@@ -124,6 +132,22 @@
           </div>
         </div>
       </div>
+      </td>
+      <td>
+      <div class="col-sm-4">
+        <div class="panel panel-default">
+          <div class="panel-heading">
+            <h3 class="panel-title">When you just gotta strut</h3>
+          </div>
+          <div class="panel-body">
+            Special occassion? Wedding? Prom? When you simply gotta sparkle we've got you covered!
+            <img src="http://blog.samuel-windsor.co.uk/wp-content/uploads/2011/12/dog-tuxedo_small1.jpg" style="width:287px;height:300px;">
+          </div>
+        </div>
+      </div>
+      </td>
+      </tr>
+      </table>
     </div>
   </div>
   <script type="text/javascript" src="webjars/jquery/2.1.1/jquery.min.js"></script>
