@@ -141,6 +141,18 @@
           </div>
         </div>
       </div>
+      <div class="col-sm-4">
+        <div class="panel panel-default">
+          <div class="panel-heading">
+            <h3 class="panel-title”>Cool like the other side of the pillow</h3>
+          </div>
+          <div class="panel-body">
+            Whoa … who is that … is he a movie star? That’s what they’ll be saying if you rock this setup.
+            <img src="http://66.media.tumblr.com/tumblr_lebqdf9GVh1qg0zh0o1_400.jpg
+" style="width:287px;height:300px;">
+          </div>
+        </div>
+      </div>
       </td>
       </tr>
       </table>
